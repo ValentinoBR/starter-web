@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <PETER COLLINS> -- <role> -- <twitter>
 
 # THANKS
 
